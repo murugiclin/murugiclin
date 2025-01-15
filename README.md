@@ -14,6 +14,7 @@ I’m a passionate developer, tech enthusiast, and cybersecurity advocate who th
 - **Ethical Hacking 🕵️‍♂️**: Diving deeper into the world of **ethical hacking** and penetration testing techniques, with a focus on **web app security**, **network vulnerabilities**, and **exploit development**.  
 - **Cloud Computing ☁️**: Learning how to deploy and scale web apps using **AWS**, **Azure**, and **Google Cloud Platform**. I’m excited about understanding **serverless architecture** and **cloud-based solutions**.  
 - **Mobile Development 📱**: Exploring **React Native** to build cross-platform mobile apps, and gaining hands-on experience with **Android** and **iOS** app development.
+- Languages & Tools 💻: Dart, Flutter, Node.js, C, C++, SQL, HTML, JavaScript, Ruby, Angular, PHP, and more. 
 
 ## 💞️ **Looking to Collaborate On**:
 - 🖥️ **Web Development Projects**: I’m open to collaborating on building **full-stack web applications**, **dynamic UIs**, and **real-time systems**. Let’s create something amazing together! 💪🌟  
