@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=murugiclin.dev" alt="murugiclin banner" width="100%"/>
+  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=murugiclin.dev" alt="murugiclin" width="100%"/>
 </p>
 
 # 👨‍💻 Murugiclin | Full-Stack Developer & Cybersecurity Specialist
