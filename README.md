@@ -6,7 +6,7 @@
 
 **@murugiclin**—your friendly neighborhood **full-stack dev**, **ethical hacker**, and **open-source ninja**! I sling code like a wizard, hunt bugs like a cyber bounty hunter, and vibe like nobody’s watching. 💾🔥 I’m here to build epic web apps, lock down systems, and maybe sneak in a meme or two. Ready to join my tech party? 🎉  
 
-🌍 **HQ**: [Your Location, optional]  
+🌍 **HQ**: KE  
 ⚡ **Motto**: Code hard, hack smart, laugh loud!  
 📈 **GitHub Flex**:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true)  
