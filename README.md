@@ -7,8 +7,7 @@
 **@murugiclin** — your friendly neighborhood **full-stack dev**, **ethical hacker**, and **open-source ninja**!  
 I sling code like a wizard, hunt bugs like a bounty hunter, and vibe like nobody’s watching.  
 Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 💾🔥  
-
-🌍 **HQ**: Kenya 🇰🇪  
+ 
 ⚡ **Motto**: Code hard, hack smart, laugh loud.  
 🎯 **Focus**: Ethical hacking, full-stack wizardry, open-source chaos.
 
