@@ -17,32 +17,32 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 ## 📈 GitHub Flex
 
 <p align="center">
-  <!-- GitHub Readme Stats: General Stats with Flair -->
-  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi's Epic Code Quest" />
-  <!-- GitHub Readme Stats: All Languages with Percentages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=100&cache_seconds=1800" />
-  <!-- GitHub Readme Streak Stats with Fiery Animation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&currStreakNum=FF4500&sideNums=FF4500" />
-  <!-- GitHub Readme Activity Graph with Animated Flow -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true&area=true&custom_title=Murugi's Code Explosion" />
-  <!-- Readme Typing SVG: Wild Welcome Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=800&color=FF4500¢er=true&vCenter=true&width=600&lines=🚀+Murugi's+Code+Cosmos!;Blasting+Through+Commits+Like+a+Supernova!" />
-  <!-- Readme Typing SVG: Crazy Skills Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=22&pause=600&color=00FF7F¢er=true&vCenter=true&width=600&lines=Code+Ninja+🗡️;Python+Wizard+🧙‍♂️;JavaScript+Jedi+🌌;C%2B%2B+Chaos+Lord!" />
-  <!-- Readme Typing SVG: Insane Fluffy Vibes -->
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=600&size=24&pause=1000&color=FF69B4¢er=true&vCenter=true&random=false&width=600&lines=💥+Code+Is+My+Superpower!;Glitter+&+Commits+Everywhere!;🌟+Epic+Coding+Madness!+🌟" />
+  <!-- GitHub Readme Stats: Anime King Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Anime+Code+Shogunate&title_color=FF0000&text_color=FFD700&icon_color=FF00FF" />
+  <!-- GitHub Readme Stats: All Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=FFD700" />
+  <!-- GitHub Readme Streak Stats: Fiery Anime Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=FFD700" />
+  <!-- GitHub Readme Activity Graph: Shinobi Contribution Surge -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true&area=true&custom_title=Murugi%27s+Shinobi+Code+Surge&line=FF00FF&point=FFD700" />
+  <!-- Readme Typing SVG: Anime King Proclamation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=700&size=28&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=👑+Murugi,+King+of+Code+no+Shonen!;Unleashing+Ultimate+Code+Jutsu!+🔥" />
+  <!-- Readme Typing SVG: Epic Anime Battle Cry -->
+  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&weight=600&size=24&pause=600&color=FF00FF&center=true&vCenter=true&width=600&lines=⚔️+Code+Like+a+Shonen+Hero!;Python+Senpai!+JavaScript+Sensei!+💥" />
+  <!-- Readme Typing SVG: Crazy Anime Flair -->
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=800&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=🌌+Cosmic+Code+Overdrive!;Sparkle+Slash+Commit+Smash!;👾+Anime+Code+Chaos!+👾" />
   <!-- GitHub Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/output/snake.svg" />
-  <!-- Skill Icons for Extra Flair -->
-  <img src="https://skill-icons.dev/icons?i=py,js,ts,cpp,html,css,react,nodejs,git&theme=dark&perline=5" />
-  <!-- Shields.io Badge: Profile Stars -->
-  <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Star+Power&style=plastic&color=FF4500" />
-  <!-- Shields.io Badge: Followers -->
-  <img src="https://img.shields.io/github/followers/murugiclin?label=Code+Fans&style=plastic&color=00FF7F" />
-  <!-- Shields.io Badge: Crazy Custom Badge -->
-  <img src="https://img.shields.io/badge/Code+Wizard-Unleashing+Digital+Chaos-FF69B4?style=plastic" />
-  <!-- Shields.io Badge: More Fluffy Nonsense -->
-  <img src="https://img.shields.io/badge/✨-Sparkle+Overload-FFD700?style=plastic" />
+  <!-- Skill Icons: Anime-Style Tech Arsenal -->
+  <img src="https://skill-icons.dev/icons?i=py,js,ts,cpp,html,css,react,nodejs,git,vscode&theme=dark&perline=5" />
+  <!-- Shields.io Badge: Shonen Star Power -->
+  <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Shonen+Star+Power&style=plastic&color=FF0000" />
+  <!-- Shields.io Badge: Code Samurai Fans -->
+  <img src="https://img.shields.io/github/followers/murugiclin?label=Code+Samurai+Fans&style=plastic&color=FF00FF" />
+  <!-- Shields.io Badge: Anime King Energy -->
+  <img src="https://img.shields.io/badge/Anime+King-Unleash+the+Code+Storm!-FFD700?style=plastic" />
+  <!-- Shields.io Badge: Super Saiyan Commit -->
+  <img src="https://img.shields.io/badge/Super+Saiyan-Commit+Over+9000!-FF4500?style=plastic" />
 </p>
 
 <p align="center">
