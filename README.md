@@ -17,34 +17,32 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 ## 📈 GitHub Flex
 
 <p align="center">
-  <!-- GitHub Readme Stats: General Stats with Shonen Energy -->
-  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Code+Odyssey&title_color=FF0000&text_color=FFD700&icon_color=FF00FF" />
+  <!-- GitHub Readme Stats: Cybersecurity Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Cipher+Nightmare&title_color=FF0000&text_color=00FF00&icon_color=00B7EB" />
   <!-- GitHub Readme Stats: All Languages with Percentages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=FFD700" />
-  <!-- GitHub Readme Streak Stats: Fiery Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=FFD700" />
-  <!-- GitHub Readme Activity Graph: Code Blitz -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true&area=true&custom_title=Murugi%27s+Code+Blitz&line=FF00FF&point=FFD700" />
-  <!-- Readme Typing SVG: Shonen Battle Cry -->
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=700&size=28&pause=700&color=FF0000¢er=true&vCenter=true&width=600&lines=💥+Code+Kamehameha!;Murugi+Storms+the+Digital+Realm!" />
-  <!-- Readme Typing SVG: Epic Tech Arsenal -->
-  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&weight=600&size=24&pause=600&color=FF00FF¢er=true&vCenter=true&width=600&lines=Python+Senpai!+🗡️;JavaScript+Shogun!+⚡;Code+Like+a+Cosmic+Ninja!" />
-  <!-- Readme Typing SVG: Wild Anime Vibes -->
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=500&size=26&pause=800&color=FFD700¢er=true&vCenter=true&random=false&width=600&lines=🌟+Commits+of+Chaos!;Unleash+the+Code+Dragon!+🔥" />
-  <!-- Readme Typing SVG: Neon Code Frenzy -->
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=24&pause=900&color=00FFFF¢er=true&vCenter=true&width=600&lines=👾+Cyber+Anime+Overdrive!;Glitter+Slash+Code+Smash!+✨" />
-  <!-- Skill Icons: Tech Arsenal -->
-  <img src="https://skill-icons.dev/icons?i=py,js,ts,cpp,html,css,react,nodejs,git,vscode&theme=dark&perline=5" />
-  <!-- Shields.io Badge: Star Explosion -->
-  <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Star+Explosion&style=plastic&color=FF0000" />
-  <!-- Shields.io Badge: Code Warriors -->
-  <img src="https://img.shields.io/github/followers/murugiclin?label=Code+Warriors&style=plastic&color=FF00FF" />
-  <!-- Shields.io Badge: Shonen Code Surge -->
-  <img src="https://img.shields.io/badge/Shonen+Surge-Code+to+Infinity-FFD700?style=plastic" />
-  <!-- Shields.io Badge: Neon Commit Blast -->
-  </p>
-  <p>
-  <img src="https://img.shields.io/badge/Neon+Blast-Commits+Over+9000!-00FFFF?style=plastic" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=00FF00" />
+  <!-- GitHub Readme Streak Stats: Blood-Red Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=00FF00" />
+  <!-- GitHub Readme Activity Graph: Glitchy Horror Surge -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=radical&hide_border=true&area=true&custom_title=Murugi%27s+Digital+Haunt&line=00B7EB&point=FFFFFF" />
+  <!-- Readme Typing SVG: Glitchy Hacker Vibe -->
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=28&pause=700&color=FF0000¢er=true&vCenter=true&width=600&lines=💉+Hacking+the+Matrix;Code+Slithers+Through+the+Darknet" />
+  <!-- Readme Typing SVG: Cybersecurity Horror -->
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=600&size=24&pause=600&color=00FF00¢er=true&vCenter=true&width=600&lines=🕸️+Network+Ghosts+Awaken;Firewall+Breached,+Code+Bleeds!" />
+  <!-- Readme Typing SVG: Creepy Code Crawl -->
+  <img src="https://readme-typing-svg.demolab.com?font=Chiller&weight=700&size=26&pause=800&color=00B7EB¢er=true&vCenter=true&random=false&width=600&lines=🖥️+Code+Haunts+the+Network;Glitch+Spirits+Consume+Commits!" />
+  <!-- Readme Typing SVG: Neon Horror Frenzy -->
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=900&color=FFFFFF¢er=true&vCenter=true&width=600&lines=👁️‍🗨️+Digital+Abyss+Stares+Back;Zero-Day+Nightmare+Unleashed!+💾" />
+  <!-- Skill Icons: Cybersecurity Arsenal -->
+  <img src="https://skill-icons.dev/icons?i=py,bash,linux,kali,nodejs,git,vscode,docker,aws,postgresql&theme=dark&perline=5" />
+  <!-- Shields.io Badge: Star Phantom -->
+  <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Star+Phantom&style=plastic&color=FF0000" />
+  <!-- Shields.io Badge: Code Ghouls -->
+  <img src="https://img.shields.io/github/followers/murugiclin?label=Code+Ghouls&style=plastic&color=00FF00" />
+  <!-- Shields.io Badge: Digital Abyss -->
+  <img src="https://img.shields.io/badge/Digital+Abyss-Hack+or+Be+Hacked-00B7EB?style=plastic" />
+  <!-- Shields.io Badge: Cyber Wraith -->
+  <img src="https://img.shields.io/badge/Cyber+Wraith-Commits+from+the+Void-FFFFFF?style=plastic" />
 </p>
 
 <p align="center">
