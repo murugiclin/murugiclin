@@ -17,9 +17,28 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 ## 📈 GitHub Flex
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- GitHub Readme Stats: Cybersecurity Surge -->
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Cyber+Surge&title_color=FF0000&text_color=00FF00&icon_color=00B7EB" />
+  <!-- GitHub Readme Stats: All Languages with Percentages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=00FF00" />
+  <!-- GitHub Readme Streak Stats: Blood-Red Glitch Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=00FF00" />
+  <!-- GitHub Readme Activity Graph: Animation Abyss -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=radical&hide_border=true&area=true&custom_title=Murugi%27s+Animation+Abyss&line=00B7EB&point=FFFFFF" />
+  <!-- Readme Typing SVG: Glitchy Nightmare Hack -->
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=28&pause=600&color=FF0000¢er=true&vCenter=true&width=600&lines=💉+Code+Screams+in+the+Void;Glitch+Nightmare+Unleashed!" />
+  <!-- Readme Typing SVG: Creepy Terminal Breach -->
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=600&size=24&pause=500&color=00FF00¢er=true&vCenter=true&width=600&lines=🕸️+Hacked+the+Digital+Grave;Commits+Crawl+from+the+Abyss!" />
+  <!-- Readme Typing SVG: Horror Code Flow -->
+  <img src="https://readme-typing-svg.demolab.com?font=Chiller&weight=700&size=26&pause=700&color=00B7EB¢er=true&vCenter=true&width=600&lines=🖥️+Network+Phantoms+Rise;Code+Slithers+Through+Glitch+Hell!" />
+  <!-- Readme Typing SVG: Neon Cyber Curse -->
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=600&color=FFFFFF¢er=true&vCenter=true&width=600&lines=👁️‍🗨️+Zero-Day+Curse+Awakens;Digital+Nightmare+Consumes+All!" />
+  <!-- Readme Typing SVG: Ghostly Hacker Vibe -->
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=650&color=FF0000¢er=true&vCenter=true&width=600&lines=💾+Wraith+of+the+Darknet;Code+Bleeds+Neon+Terror!" />
+  <!-- Readme Typing SVG: Glitchy Cyber Horror -->
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=600&size=24&pause=550&color=00FF00¢er=true&vCenter=true&width=600&lines=🕷️+Firewall%27s+Final+Scream;Hacker+Shadows+Devour+Commits!" />
+  <!-- Skill Icons: Cybersecurity Arsenal -->
+  <img src="https://skill-icons.dev/icons?i=py,bash,linux,kali,nodejs,git,vscode,docker,aws,postgresql&theme=dark&perline=5" />
 </p>
 
 <p align="center">
