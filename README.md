@@ -42,6 +42,8 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
   <!-- Shields.io Badge: Shonen Code Surge -->
   <img src="https://img.shields.io/badge/Shonen+Surge-Code+to+Infinity-FFD700?style=plastic" />
   <!-- Shields.io Badge: Neon Commit Blast -->
+  </p>
+  <p>
   <img src="https://img.shields.io/badge/Neon+Blast-Commits+Over+9000!-00FFFF?style=plastic" />
 </p>
 
