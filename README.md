@@ -17,20 +17,17 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 ## 📈 GitHub Flex
 
 <p align="center">
-  <!-- GitHub Readme Stats: General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800" />
-  <!-- GitHub Readme Stats: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" />
-  <!-- GitHub Readme Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=murugiclin&theme=gruvbox&no-frame=true" />
-  <!-- GitHub Readme Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true" />
-  <!-- Readme Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FB8C00&center=true&vCenter=true&width=500&lines=Welcome+to+Murugi's+GitHub+Profile!;Passionate+about+coding+and+open-source!" />
-  <!-- Shields.io Badge (Example: Stars for a specific repo) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi's Coding Adventure" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=100&show_language_percents=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FB8C00&currStreakNum=FB8C00&sideNums=FB8C00" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true&area=true&custom_title=Murugi's Contribution Flow" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true&line=FB8C00&point=FFFFFF&area=true&custom_title=Murugi's Coding Pulse" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FB8C00&center=true&vCenter=true&width=600&lines=Welcome+to+Murugi's+GitHub+Universe!;Crafting+Code+with+Passion+and+Flair!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=20&pause=800&color=F28C38&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+Java+%7C+C%2B%2B;Building+the+Future,+One+Line+at+a+Time!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=22&pause=1200&color=FFB300&center=true&vCenter=true&random=false&width=600&lines=Sparkles+and+Code!;Turning+Ideas+into+Digital+Magic!;✨+Keep+Coding,+Keep+Shining!+✨" />
   <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Profile%20Stars&style=flat-square&color=FB8C00" />
+  <img src="https://img.shields.io/github/followers/murugiclin?label=Followers&style=flat-square&color=F28C38" />
+  <img src="https://img.shields.io/badge/Coding%20Vibes-Sparkle%20On!-FFB300?style=flat-square" />
 </p>
 
 <p align="center">
