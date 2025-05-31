@@ -17,9 +17,20 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 ## 📈 GitHub Flex
 
 <p align="center">
+  <!-- GitHub Readme Stats: General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=1800" />
+  <!-- GitHub Readme Stats: Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <!-- GitHub Readme Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=murugiclin&theme=gruvbox&no-frame=true" />
+  <!-- GitHub Readme Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=gruvbox&hide_border=true" />
+  <!-- Readme Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FB8C00&center=true&vCenter=true&width=500&lines=Welcome+to+Murugi's+GitHub+Profile!;Passionate+about+coding+and+open-source!" />
+  <!-- Shields.io Badge (Example: Stars for a specific repo) -->
+  <img src="https://img.shields.io/github/stars/murugiclin/murugiclin?label=Profile%20Stars&style=flat-square&color=FB8C00" />
 </p>
 
 <p align="center">
