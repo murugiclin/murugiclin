@@ -40,12 +40,12 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 
 ### 🔐 Cyber Bounty Hunter  
 - 🕵️‍♂️ Found **XSS/SQLi** in real-world apps  
-- 🔧 Wrote vuln scanner — **500+ stars**  
+- 🔧 Wrote vuln scanner 
 - 🛡️ Secured fintech APIs — **30% more resilient**
 
 ### 🌍 Open-Source Rockstar  
 - 🧪 Fixed **20+ bugs** in top-tier React libs  
-- 📦 Dropped CLIs w/ **100+ downloads**  
+- 📦 Dropped CLIs w/ 
 - ⚙️ Optimized PHP — shaved **10ms/server call**
 
 ### 📱 Mobile & Cloud Vibes  
@@ -101,8 +101,8 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
 
 | 🎯 Project | 💬 What It Does | 🛠️ Tech | 🔥 Impact |
 |------------|------------------|---------|-----------|
-| **[BugBlaster](#)** 🔐 | Auto-scans websites for vulns. | Python, Flask, Docker | **1K+ stars**, saved **10+ apps** from hacks. |
-| **[Portfolio](https://evaclin.life)** 💻 | My slick full-stack playground. | React, PHP, MariaDB | **10K+ hits**, **95% retention**. |
+| **[BugBlaster](#)** 🔐 | Auto-scans websites for vulns. | Python, Flask, Docker |  saved **10+ apps** from hacks. |
+| **[Portfolio](https://evaclin.life)** 💻 | My slick full-stack playground. | React, PHP, MariaDB |  **95% retention**. |
 | **[SmartDash](#)** 🤖 | AI-powered analytics UI. | Node.js, TensorFlow, MongoDB | **2K+ users**, predicts trends like a boss. |
 | **[CodeZap](#)** 🛠️ | CLI to turbocharge Git workflows. | Bash, Node.js | **200+ downloads**, **25% faster deploys**. |
 | **[SecureGate](#)** 🔒 | API with ironclad auth. | Express, Redis, JWT | **100K+ reqs/day**, zero breaches. |
