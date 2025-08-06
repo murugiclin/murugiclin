@@ -1,152 +1,61 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="5000">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
 </p>
 
-# 😎 Yo, I’m Murugiclin! 🦸‍♂️    [Visit site .. https://devportfolio-fzzn.onrender.com/
+# 😎 Murugiclin — Full-Stack Dev & Ethical Hacker  
+[🌐 Portfolio](https://evaclin.life) • [📧 Email](mailto:murugiclinton62@gmail.com)
 
-**@murugiclin** — your friendly neighborhood **full-stack dev**, **ethical hacker**, and **open-source ninja**!  
-I sling code like a wizard, hunt bugs like a bounty hunter, and vibe like nobody’s watching.  
-Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 💾🔥  
- 
-⚡ **Motto**: Code hard, hack smart, laugh loud.  
-🎯 **Focus**: Ethical hacking, full-stack wizardry, open-source chaos.
+---
+
+## 🔥 What I Do
+
+- 🧠 **Full-Stack** — React, Tailwind, PHP, Node.js, Docker  
+- 🔐 **Ethical Hacking** — XSS/SQLi hunter, API hardening, vuln scanners  
+- ☁️ **DevOps** — CI/CD, AWS Lambda, infra as code  
+- 📲 **Apps** — Flutter + React Native, PWA-ready  
+- 🤖 **AI & Data** — Kafka, TensorFlow, real-time analytics  
+
+---
+
+## 🧰 Stack & Tools
+
+React • Node.js • PHP • Redis • Tailwind • Docker • TensorFlow • Metasploit • Flutter • MongoDB • Terraform • GCP • Azure • Next.js
 
 ---
 
 ## 📈 GitHub Flex
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Cyber+Surge&title_color=FF0000&text_color=00FF00&icon_color=00B7EB" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=00FF00" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=00FF00" />    
-
-</p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murugiclin&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-  <img src="https://skillicons.dev/icons?i=py,bash,linux,kali,nodejs,git,vscode,docker,aws,postgresql&theme=dark&perline=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🧰 What I Bring to the Chaos 🎯
+## 🧪 Projects
 
-### 🌐 Web Dev Wizardry  
-- 🖼️ React + Tailwind dashboards — **99% Lighthouse** ⚡  
-- ⚙️ Backend pro: PHP, Node.js, MariaDB — **50K+ daily reqs**  
-- 🚀 DevOps: Docker, CI/CD, infra on autopilot  
-
-### 🔐 Cyber Bounty Hunter  
-- 🕵️‍♂️ Found **XSS/SQLi** in real-world apps  
-- 🔧 Wrote vuln scanner 
-- 🛡️ Secured fintech APIs — **30% more resilient**
-
-### 🌍 Open-Source Rockstar  
-- 🧪 Fixed **20+ bugs** in top-tier React libs  
-- 📦 Dropped CLIs w/ 
-- ⚙️ Optimized PHP — shaved **10ms/server call**
-
-### 📱 Mobile & Cloud Vibes  
-- 📲 Flutter + React Native apps — **1K+ beta testers**  
-- ☁️ AWS Lambda ninja — **40% cost slashed**
-
-### 🤖 Data & AI Experiments  
-- 📊 DB tweaks for **50% faster queries**  
-- 🧠 TensorFlow trend predictor — spooky accurate  
-- 💾 Kafka crunching **2M+ records** in real time
+| Project | Stack | Impact |
+|--------|--------|--------|
+| 🔐 **BugBlaster** | Flask, Docker | Auto-scans sites for vulns |
+| 💻 **Portfolio** | React, PHP | 95% visitor retention |
+| 🤖 **SmartDash** | Node.js, TensorFlow | Predictive analytics, 2K+ users |
+| 🛠️ **CodeZap** | Bash, Node.js | Boosts Git workflow |
+| 🔒 **SecureGate** | Redis, JWT | 100K+ daily API hits, zero breaches |
 
 ---
 
-## 💻 Tech Arsenal
+## ⚡ Let’s Build
 
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-1E90FF?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-</p>
+- 🔍 Pentest tools & security audits  
+- ⚙️ Bulletproof APIs & infra  
+- 🧠 AI bots, Web3 chaos, open-source magic  
+- 💥 Hackathons, startup MVPs, all in  
 
 ---
-
-## 🚀 Leveling Up Like a Boss 🎮
-
-- 💥 Mastering **Next.js**, **React Query**, **Serverless**  
-- 🛡️ Training for **OSCP**, diving into **IoT/firmware exploits**  
-- ☁️ Kubernetes & Terraform — deploying like a god  
-- 🤖 Building AI that roasts your spaghetti code  
-- 📱 Flutter app coming with **offline sync + PWA** sauce
-
-### 🧪 Next Quests:
-- 🦀 Learn Rust  
-- 🌐 Web3 + Solidity smart contracts  
-- 🐧 Patch the Linux kernel just for fun
-
----
-
-## 🏆 Epic Projects (Check These Out!) 🥇
-
-| 🎯 Project | 💬 What It Does | 🛠️ Tech | 🔥 Impact |
-|------------|------------------|---------|-----------|
-| **[BugBlaster](#)** 🔐 | Auto-scans websites for vulns. | Python, Flask, Docker |  saved **10+ apps** from hacks. |
-| **[Portfolio](https://evaclin.life)** 💻 | My slick full-stack playground. | React, PHP, MariaDB |  **95% retention**. |
-| **[SmartDash](#)** 🤖 | AI-powered analytics UI. | Node.js, TensorFlow, MongoDB | **2K+ users**, predicts trends like a boss. |
-| **[CodeZap](#)** 🛠️ | CLI to turbocharge Git workflows. | Bash, Node.js | **200+ downloads**, **25% faster deploys**. |
-| **[SecureGate](#)** 🔒 | API with ironclad auth. | Express, Redis, JWT | **100K+ reqs/day**, zero breaches. |
-
----
-
-## 🤝 Wanna Team Up? Let’s Make Sparks Fly! ⚡
-
-- 💻 Real-time apps? Bulletproof APIs? I’m game.  
-- 🔐 Security audits, toolkits, fuzzing — let’s outsmart the bad guys.  
-- 🚀 Open source chaos with high ROI impact  
-- 📦 Startup grind? Bring AI, Web3, or just chaos — I’m in  
-- 🧠 Hackathons? I debug mid-keystroke  
-
-### 💪 Recent Wins:
-- 🐞 Fixed 15 bugs in a Vue.js tool (5K+ users)  
-- 🔍 Hardened a fintech backend, cut vuln risks **40%**
-
----
-
-## 📡 Ping Me Anytime! 📩
-
-- 📧 **Email**: [murugiclinton62@gmail.com](mailto:murugiclinton62@gmail.com)  
-- 🌐 **Portfolio**: [evaclin.life](https://evaclin.life)  
-- 💼 **LinkedIn**: Coming soon  
-- 🐦 **Twitter**: @murugiclin *(Stay tuned)*  
-- 🗨️ **Discord**: murugiclin#1337
-
----
-
-## 🤪 Who’s This Crazy Coder? 🦄
-
-- 🎮 Gamer: StarCraft, Halo — tactical slaps only  
-- 📚 Binger: Hacker News, Black Hat talks on loop  
-- 🤖 Pranks: Discord bots doing crimes (ethically)  
-- 🧑‍🏫 Mentor: Helped 30+ devs win CTFs + React paths  
-- 🎧 Debugged Node.js crash mid metal drop — no skip 🔥
-
-**Pronouns**: He/Him  
-**Stupid Fact**: Hacked a CTF box while eating pizza — slice stayed intact 🍕
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/murugiclin?label=Follow%20the%20Chaos&style=social" />
-  <img src="https://img.shields.io/github/stars/murugiclin?label=Star%20the%20Show&style=social" />
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank" />
+  <img src="https://img.shields.io/github/followers/murugiclin?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/murugiclin?label=Stars&style=social" />
   <img src="https://img.shields.io/badge/-TryHackMe-FF5733?logo=tryhackme" />
 </p>
-
-*Yo, you made it this far? Star a repo, ping me, or let’s code something WILD!* 🚀😜
