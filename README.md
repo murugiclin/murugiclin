@@ -19,9 +19,7 @@ Let’s build killer apps, bust vulns, and maybe prank a few friends with bots. 
   <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&custom_title=Murugi%27s+Cyber+Surge&title_color=FF0000&text_color=00FF00&icon_color=00B7EB" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true&langs_count=100&cache_seconds=1800&title_color=FF0000&text_color=00FF00" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=00FF00" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murugiclin&theme=radical&hide_border=true&area=true&custom_title=Murugi%27s+Animation+Abyss&line=00B7EB&point=FFFFFF" />
-    
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&ring=00FF00" />    
 
 </p>
 <p align="center">
