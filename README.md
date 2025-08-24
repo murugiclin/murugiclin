@@ -44,16 +44,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=System+Engineer;OS+Developer;Cybersecurity+Researcher;Blockchain+Builder;20%2B+Shipped+Apps"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
-</p>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify Now Playing"/>
-</p>
 
 
 <!-- Minimal language badges (static, crisp) -->
@@ -68,6 +58,3 @@
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/main/github-metrics.svg" alt="Metrics"/>
-</p>
