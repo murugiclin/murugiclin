@@ -41,13 +41,8 @@
 </tr>
 </table>
 
-
-<!-- Subtle activity graph (kept low-noise) -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=murugiclin&hide_border=true&radius=8&area=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=System+Engineer;OS+Developer;Cybersecurity+Researcher;Blockchain+Builder;20%2B+Shipped+Apps"/>
 </p>
 
 <!-- Minimal language badges (static, crisp) -->
