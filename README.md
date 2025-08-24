@@ -54,9 +54,7 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify Now Playing"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/main/github-metrics.svg" alt="Metrics"/>
-</p>
+
 
 <!-- Minimal language badges (static, crisp) -->
 <p align="center">
@@ -68,4 +66,8 @@
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/murugiclin/murugiclin/main/github-metrics.svg" alt="Metrics"/>
 </p>
