@@ -41,6 +41,7 @@ React • Node.js • PHP • Docker • TensorFlow • Flutter • MongoDB
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/murugiclin?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/murugiclin?label=Stars&style=social" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&theme=radical&hide_border=true" />
 </p>
