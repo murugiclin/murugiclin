@@ -6,42 +6,41 @@
    ╚═════╝ ╚══════╝╚═╝╚═╝╚═╝  ╚══╝
 ## Languages & GitHub Usage
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<!-- GitHub Stats & Languages Section -->
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-      <!-- Top Languages (auto from your public repos) -->
-      <h4 align="center">Top Languages</h4>
-      <p align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&langs_count=8&hide_border=true&card_width=380"
-          alt="Top Languages"
-        />
-      </p>
+<h4 align="center">🔥 Top Languages</h4>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&langs_count=8&hide_border=true&card_width=380&theme=radical"
+    alt="Top Languages"
+  />
+</p>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
-      <!-- Profile Stats (minimal) -->
-      <h4 align="center">Profile Stats</h4>
-      <p align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&hide_title=true&hide=stars,prs,issues&hide_border=true"
-          alt="GitHub Stats"
-        />
-      </p>
+<h4 align="center">⚡ Profile Stats</h4>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&hide_title=true&hide=prs,issues&hide_border=true&theme=radical"
+    alt="GitHub Stats"
+  />
+</p>
 
-      <!-- Streak (optional but clean) -->
-      <p align="center">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&hide_border=true&theme=radical"
+    alt="GitHub Streak"
+  />
+</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 <!-- Subtle activity graph (kept low-noise) -->
 <p align="center">
