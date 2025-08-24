@@ -44,6 +44,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=System+Engineer;OS+Developer;Cybersecurity+Researcher;Blockchain+Builder;20%2B+Shipped+Apps"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murugiclin&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies"/>
+</p>
+
 
 <!-- Minimal language badges (static, crisp) -->
 <p align="center">
