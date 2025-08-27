@@ -30,12 +30,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=murugiclin&hide_border=true&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
 
 </td>
 </tr>
