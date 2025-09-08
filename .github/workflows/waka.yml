@@ -1,8 +1,8 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Updates daily at midnight UTC
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: "waka_19375a6d-0bf1-4cc7-ab2d-8d3dc7212827"
           SHOW_COMMIT: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE: "True"
