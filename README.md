@@ -5,6 +5,11 @@
   ╚██████╔╝███████╗██║██║██║ ╚███║
    ╚═════╝ ╚══════╝╚═╝╚═╝╚═╝  ╚══╝
 ## Languages & GitHub Usage
+📊 **This Week I Spent My Time On**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!-- GitHub Stats & Languages Section -->
 <table width="100%">
