@@ -1,17 +1,14 @@
-   ██████╗ ██╗     ██╗██╗███╗  ██╗
-  ██╔═══██╗██║     ██║██║████╗ ██║
-  ██║   ██║██║     ██║██║██╔██╗██║
-  ██║   ██║██║     ██║██║██║╚████║
-  ╚██████╔╝███████╗██║██║██║ ╚███║
-   ╚═════╝ ╚══════╝╚═╝╚═╝╚═╝  ╚══╝
-## Languages & GitHub Usage
-📊 **This Week I Spent My Time On**
+<h1 align="center">⚡ Clinton Murugi (CM) ⚡</h1>
+<p align="center">
+  <b>System Engineer | OS Developer | Cybersecurity Researcher | Blockchain Builder</b>  
+</p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Building+Modular+OS+from+Scratch;Crafting+TCP%2FIP+Stacks;Ethical+Hacking+%26+Security;20%2B+Shipped+Apps;Breaking+Limits+%26+Optimizing+Systems"/>
+</p>
 
+---
 
-<!-- GitHub Stats & Languages Section -->
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
@@ -35,17 +32,13 @@
   />
 </p>
 
-
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=System+Engineer;OS+Developer;Cybersecurity+Researcher;Blockchain+Builder;20%2B+Shipped+Apps"/>
-</p>
+---
 
-
-<!-- Minimal language badges (static, crisp) -->
+<h3 align="center">🚀 Tech Arsenal</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -57,3 +50,28 @@
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
+---
+
+<h3 align="center">🌌 About Me</h3>
+
+<p align="center">
+🚧 Builder of <b>MyOS</b>, a modular microkernel ecosystem for phones, TVs, laptops & beyond.  
+🔐 Researching <b>advanced cybersecurity & blockchain</b> systems.  
+⚙️ Love <b>low-level engineering</b>: memory managers, TCP/IP stacks, and distributed computing.  
+🚀 Shipped <b>20+ apps</b>, balancing raw performance with clean design.  
+</p>
+
+---
+
+<h3 align="center">📡 Connect</h3>
+<p align="center">
+  <a href="https://github.com/murugiclin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/clinton-murugi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:189145001+murugiclin@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ “Turning complex systems into powerful tools — one commit at a time.” ⚡</i>
+</p>
