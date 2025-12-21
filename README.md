@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Clinton Murugi (CM) ⚡</h1>
+<h1 align="center">⚡  Murugi (CM) ⚡</h1>
 <p align="center">
   <b>System Engineer | OS Developer | Cybersecurity Researcher | Blockchain Builder</b>  
 </p>
