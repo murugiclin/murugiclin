@@ -1,198 +1,169 @@
-# Visual Guide: Enhanced GitHub Profile README
-## 🎨 Enhanced Sections Visualization
-### Header Section (Lines 1-13)
-```
-⚡ Murugi (CM) ⚡
-System Engineer | OS Developer | Cybersecurity Researcher | Blockchain Builder
-[Typing Animation: "Building Modular OS from Scratch..." rotating text]
-[Profile Views Badge: 🔢] [Followers Badge: 👥]
-```
-**Enhancement**: Added interactive profile views counter and followers badge with cyan theme
+<h1 align="center">⚡ Murugi (CM) ⚡</h1>
+<p align="center">
+  <b>System Engineer | OS Developer | Cybersecurity Researcher | Blockchain Builder</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Building+Modular+OS+from+Scratch;Crafting+TCP%2FIP+Stacks;Ethical+Hacking+%26+Security;20%2B+Shipped+Apps;Breaking+Limits+%26+Optimizing+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murugiclin&style=flat-square&color=00CFFF" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/murugiclin?style=flat-square&color=00CFFF" alt="Followers" />
+</p>
+
 ---
-### GitHub Stats Section (Lines 17-42)
-```
-📊 GitHub Stats
-┌──────────────────────────┬──────────────────────────┐
-│   🔥 Top Languages       │   ⚡ Profile Stats       │
-│   [Stats Widget]         │   [Stats Widget]         │
-└──────────────────────────┴──────────────────────────┘
-[GitHub Streak Stats - Full Width]
-```
-**Enhancement**: Added hide_border=true to streak stats for cleaner look
+
+## 📊 GitHub Stats
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+<h4 align="center">🔥 Top Languages</h4>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugiclin&layout=compact&langs_count=8&hide_border=true&card_width=380&theme=radical" alt="Top Languages" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<h4 align="center">⚡ Profile Stats</h4>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murugiclin&show_icons=true&hide_title=true&hide=prs,issues&hide_border=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murugiclin&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
-### 🆕 GitHub Trophies Section (Lines 46-50)
-```
-🏆 GitHub Trophies
-[Trophy 1] [Trophy 2] [Trophy 3] [Trophy 4] [Trophy 5] [Trophy 6] [Trophy 7]
-```
-**New Feature**: Displays GitHub achievements and milestones horizontally
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murugiclin&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
-### 🆕 Contribution Activity Section (Lines 54-58)
-```
-📈 Contribution Activity
-[Contribution Graph showing activity patterns over time]
-[Area chart with cyan (#00CFFF) theme]
-```
-**New Feature**: Visual representation of contribution patterns with custom colors
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugiclin&theme=react-dark&area=true&hide_border=true&color=00CFFF&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
 ---
-### Tech Arsenal Section (Lines 62-107)
-```
-🚀 Tech Arsenal
-💻 Systems Programming
-[C] [C++] [Assembly] [Rust]
-🔧 Backend & Infrastructure
-[Go] [Python] [Node.js]
-🎨 Frontend & Mobile
-[TypeScript] [JavaScript] [React] [React Native]
-⛓️ Blockchain & Web3
-[Solidity] [Smart Contracts] [Web3]
-🛠️ DevOps & Tools
-[Docker] [Kubernetes] [Git] [Linux]
-🗄️ Databases
-[PostgreSQL] [MongoDB] [Redis]
-```
-**Enhancement**: Transformed from flat list to organized categories with 22 technologies
+
+## 🚀 Tech Arsenal
+
+**💻 Systems Programming**  
+[C] [C++] [Assembly] [Rust]  
+
+**🔧 Backend & Infrastructure**  
+[Go] [Python] [Node.js]  
+
+**🎨 Frontend & Mobile**  
+[TypeScript] [JavaScript] [React] [React Native]  
+
+**⛓️ Blockchain & Web3**  
+[Solidity] [Smart Contracts] [Web3]  
+
+**🛠️ DevOps & Tools**  
+[Docker] [Kubernetes] [Git] [Linux]  
+
+**🗄️ Databases**  
+[PostgreSQL] [MongoDB] [Redis]  
+
 ---
-### About Me Section (Lines 111-122)
-```
-🌌 About Me
-💼 Systems Engineer with deep expertise in OS development, low-level programming, and cybersecurity research
-🚧 Creator of MyOS — a modular microkernel ecosystem designed for phones, TVs, laptops & beyond
-🔐 Active in cybersecurity research: penetration testing, vulnerability analysis, and blockchain security audits
-⚙️ Passionate about low-level engineering: custom memory managers, TCP/IP stack implementations, and distributed systems
-🚀 Shipped 20+ production applications across mobile, web, and backend platforms
-🏆 CTF & Bug Bounty Hunter: Ethical hacking, system exploitation, and smart contract auditing
-🌐 Blockchain Developer: Building decentralized systems with Solidity and Web3 technologies
+
+## 🌌 About Me
+<p>
+💼 Systems Engineer with deep expertise in OS development, low-level programming, and cybersecurity research<br>
+🚧 Creator of MyOS — a modular microkernel ecosystem for phones, TVs, laptops & beyond<br>
+🔐 Active in cybersecurity research: penetration testing, vulnerability analysis, and blockchain security audits<br>
+⚙️ Passionate about low-level engineering: custom memory managers, TCP/IP stack implementations, and distributed systems<br>
+🚀 Shipped 20+ production applications across mobile, web, and backend platforms<br>
+🏆 CTF & Bug Bounty Hunter: Ethical hacking, system exploitation, and smart contract auditing<br>
+🌐 Blockchain Developer: Building decentralized systems with Solidity and Web3 technologies<br>
 📚 Continuous learner exploring Rust for systems programming and cutting-edge security techniques
-```
-**Enhancement**: Expanded from 5 to 8 detailed points with specific expertise areas
+</p>
+
 ---
-### 🆕 Currently Working On Section (Lines 126-136)
-```
-🚧 Currently Working On
-🔨 MyOS — Modular microkernel ecosystem with advanced process management and IPC
-🔐 Cybersecurity Research — Vulnerability analysis, exploit development, and security tooling
-⛓️ Blockchain Systems — Smart contract development and DeFi protocol architecture
-📱 Cross-Platform Apps — React Native applications with native performance optimization
+
+## 🚧 Currently Working On
+<p>
+🔨 MyOS — Modular microkernel ecosystem with advanced process management and IPC<br>
+🔐 Cybersecurity Research — Vulnerability analysis, exploit development, and security tooling<br>
+⛓️ Blockchain Systems — Smart contract development and DeFi protocol architecture<br>
+📱 Cross-Platform Apps — React Native applications with native performance optimization<br>
 🧪 Low-Level Projects — Custom TCP/IP implementations and kernel module development
-```
-**New Feature**: Dynamic section showing 5 current focus areas
+</p>
+
 ---
-### Featured Projects Section (Lines 140-204)
-```
-📂 Featured Projects
-┌─────────────────────────────────────┬─────────────────────────────────────┐
-│ 🖥️ MyOS                             │ ₿ Bitcoin Taproot Wallet            │
-│ Modular microkernel operating system│ Advanced cryptocurrency wallet      │
-│ • Custom memory management          │ • Taproot transaction support       │
-│ • IPC mechanisms & device drivers   │ • Enhanced privacy features         │
-│ • Multi-platform support            │ • Secure key management             │
-│ Tech: C, Assembly, Rust             │ Tech: Go, Blockchain, Cryptography  │
-│ [View Repository →]                 │ [View Repository →]                 │
-├─────────────────────────────────────┼─────────────────────────────────────┤
-│ 🌐 TCP/IP Stack                     │ 🔒 CTF Challenges                   │
-│ Custom network stack implementation │ Security research & challenges      │
-│ • Full TCP/IP protocol suite        │ • Exploit development               │
-│ • Raw socket programming            │ • Reverse engineering               │
-│ • Network packet analysis           │ • Cryptographic analysis            │
-│ Tech: C, Assembly, Networking       │ Tech: Python, C, Assembly           │
-│ [View Repository →]                 │ [View Repository →]                 │
-└─────────────────────────────────────┴─────────────────────────────────────┘
-🚀 20+ Shipped Applications spanning mobile apps (React Native), 
-   web platforms (TypeScript/React), backend services (Go/Python), 
-   and blockchain projects (Solidity/Web3)
-```
-**Enhancement**: Transformed from badge links to detailed table with descriptions, features, and tech stacks
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td valign="top">
+**🖥️ MyOS**<br>
+Modular microkernel operating system<br>
+• Custom memory management<br>
+• IPC mechanisms & device drivers<br>
+• Multi-platform support<br>
+Tech: C, Assembly, Rust<br>
+[View Repository →](https://github.com/murugiclin/MyOS)
+</td>
+<td valign="top">
+**₿ Bitcoin Taproot Wallet**<br>
+Advanced cryptocurrency wallet<br>
+• Taproot transaction support<br>
+• Enhanced privacy features<br>
+• Secure key management<br>
+Tech: Go, Blockchain, Cryptography<br>
+[View Repository →](https://github.com/murugiclin/BitcoinTaprootWallet)
+</td>
+</tr>
+<tr>
+<td valign="top">
+**🌐 TCP/IP Stack**<br>
+Custom network stack implementation<br>
+• Full TCP/IP protocol suite<br>
+• Raw socket programming<br>
+• Network packet analysis<br>
+Tech: C, Assembly, Networking<br>
+[View Repository →](https://github.com/murugiclin/TCP-IP-Stack)
+</td>
+<td valign="top">
+**🔒 CTF Challenges**<br>
+Security research & challenges<br>
+• Exploit development<br>
+• Reverse engineering<br>
+• Cryptographic analysis<br>
+Tech: Python, C, Assembly<br>
+[View Repository →](https://github.com/murugiclin/CTF-Challenges)
+</td>
+</tr>
+</table>
+
+<p>
+🚀 20+ Shipped Applications spanning mobile apps (React Native), web platforms (TypeScript/React), backend services (Go/Python), and blockchain projects (Solidity/Web3)
+</p>
+
 ---
-### Connect Section (Lines 208-214)
-```
-📡 Connect
-[GitHub] [LinkedIn] [Email]
-```
-**Verified**: All links functional and properly formatted
+
+## 📡 Connect
+<p align="center">
+  <a href="https://github.com/murugiclin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/clinton-kimathi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ckimathi802@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 ---
-### Footer (Lines 218-220)
-```
-⚡ "Turning complex systems into powerful tools — one commit at a time." ⚡
-```
-**Maintained**: Original inspirational quote preserved
----
-## 🎯 Widget Configuration Details
-### Profile Views Counter
-- **Service**: komarev.com/ghpvc
-- **Color**: #00CFFF (cyan)
-- **Style**: flat-square
-- **Status**: ✅ Live
-### Followers Badge
-- **Service**: shields.io
-- **Color**: #00CFFF (cyan)
-- **Style**: flat-square
-- **Status**: ✅ Live
-### GitHub Stats
-- **Service**: github-readme-stats.vercel.app
-- **Theme**: radical
-- **Border**: hidden
-- **Status**: ✅ Live
-### Streak Stats
-- **Service**: github-readme-streak-stats.herokuapp.com
-- **Theme**: radical
-- **Border**: hidden
-- **Status**: ✅ Live
-### Trophies
-- **Service**: github-profile-trophy.vercel.app
-- **Theme**: radical
-- **Frame**: none
-- **Layout**: 1 row, 7 columns
-- **Status**: ✅ Live
-### Activity Graph
-- **Service**: github-readme-activity-graph.vercel.app
-- **Background**: #141321
-- **Color**: #00CFFF (cyan)
-- **Line**: #00CFFF (cyan)
-- **Point**: #FFFFFF (white)
-- **Area**: enabled
-- **Border**: hidden
-- **Status**: ✅ Live
----
-## 🎨 Color Palette Used
-| Element | Color Code | Name |
-|---------|------------|------|
-| Primary Accent | `#00CFFF` | Cyan |
-| Background | `#141321` | Dark Purple |
-| Text | `#FFFFFF` | White |
-| C/C++ Badge | `#00599C` | Blue |
-| Go Badge | `#00ADD8` | Light Blue |
-| Python Badge | `#3776AB` | Blue |
-| TypeScript Badge | `#3178C6` | Blue |
-| JavaScript Badge | `#F7DF1E` | Yellow |
-| React Badge | `#61DAFB` | Cyan |
-| Solidity Badge | `#363636` | Dark Gray |
-| Docker Badge | `#2496ED` | Blue |
-| Kubernetes Badge | `#326CE5` | Blue |
-| PostgreSQL Badge | `#4169E1` | Royal Blue |
-| MongoDB Badge | `#47A248` | Green |
-| Redis Badge | `#DC382D` | Red |
----
-## 📱 Mobile Responsiveness
-All sections are designed to be mobile-responsive:
-- ✅ Tables adjust to smaller screens
-- ✅ Images scale appropriately
-- ✅ Text wraps properly
-- ✅ Badges stack vertically on narrow displays
-- ✅ Centered alignment maintained across all devices
----
-## 🚀 Performance Considerations
-- All external widgets use CDN-hosted services
-- Images are optimized and cached
-- No heavy JavaScript or CSS
-- Fast loading times
-- GitHub's CDN ensures global availability
----
-## ✨ Accessibility Features
-- All images have descriptive alt text
-- Proper heading hierarchy (h1, h2, h4)
-- High contrast text and backgrounds
-- Semantic HTML structure
-- Screen reader friendly
----
-**Enhancement Complete**: The profile README is now a comprehensive, modern, and visually appealing showcase of technical expertise and achievements! 🎉
+
+<p align="center">
+  <i>⚡ "Turning complex systems into powerful tools — one commit at a time." ⚡</i>
+</p>
