@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 ---
