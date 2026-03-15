@@ -38,23 +38,26 @@
 
 ---
 
-<h3 align="center">🚀 Tech Arsenal</h3>
+<<h3 align="center">🚀 Tech Arsenal</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-000?style=flat-square" />
   <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL5-000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-000?style=flat-square&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-000?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
+
+
 ---
 
 <h3 align="center">🌌 About Me</h3>
