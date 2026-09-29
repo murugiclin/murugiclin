@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Clinton Murugi ⚡</h1>
+<h1 align="center">⚡ C M ⚡</h1>
 
 <p align="center">
   <b>Software Engineer | Systems | Security</b>
